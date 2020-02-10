@@ -1,0 +1,6 @@
+framework module Pods_WikiApp_WikiAppUITests {
+  umbrella header "Pods-WikiApp-WikiAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
